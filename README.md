@@ -25,7 +25,7 @@ Printify also has a free plan, so you can start without paying anything. If you 
 | **Attribute**                  | **Details**                                                                      |
 | ------------------------------ | -------------------------------------------------------------------------------- |
 | **Software Name**              | Printify                                                                         |
-| **Official Website**           | [printify.com](https://printify.com)                                             |
+| **Official Website**           | [printify.com](https://afftrend.com/printify)                                             |
 | **Developers**                 | Artis Kehris, Gatis Dukurs, James Berdigans                                      |
 | **Unique Selling Proposition** | Extensive network of print providers and seamless e-commerce integrations        |
 | **Category**                   | Print-on-Demand Platform                                                         |
