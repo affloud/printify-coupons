@@ -18,7 +18,7 @@ Founded in 2015 in Riga, Latvia, by Artis Kehris, Gatis Dukurs, and James Berdig
 
 One of the best things about Printify is that it works with many printing partners in different countries. This means your products can be made and delivered faster, depending on where your customer lives. It also gives you more choices when it comes to price, quality, and shipping speed.
 
-Printify easily connects with popular eCommerce platforms like Shopify, Etsy, and WooCommerce. Once your store is set up, Printify can automatically send customer orders to a print provider, who will then print and ship the item straight to your buyer. You don’t have to do anything manually, which saves you time and effort.
+**Printify** easily connects with popular eCommerce platforms like Shopify, Etsy, and WooCommerce. Once your store is set up, Printify can automatically send customer orders to a print provider, who will then print and ship the item straight to your buyer. You don’t have to do anything manually, which saves you time and effort.
 
 Printify also has a free plan, so you can start without paying anything. If you want bigger profit margins, the Premium plan offers up to 20% off product costs.
 
