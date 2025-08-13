@@ -8,7 +8,7 @@
 
 Over 4 million people use Printify to build and run their print-on-demand stores. Whether you're an artist, influencer, or small business owner, Printify makes it easy to sell your own branded products without any upfront cost.
 
-## Printify Overview
+## Printify Highlights
 
 <a href="https://afftrend.com/printify">
   <img src="https://drive.google.com/uc?export=view&id=1sHeZiQhXJDS9f4KzgAL2dDhqIrXxbTm2"  alt="">
